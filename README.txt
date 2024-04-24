@@ -1,2 +1,1 @@
-ODPRI Chess_1.exe 
-Ni še dokončan tho.
+Just a side project made in Windows forms.
